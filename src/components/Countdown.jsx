@@ -19,7 +19,7 @@ function Countdown({ onNewYearReached, newYearReached }) {
     // 🎆 SET YOUR NEW YEAR DATE & TIME HERE 🎆
     // ═══════════════════════════════════════════════════════════════
 
-    const targetDate = new Date('2025-12-28T21:53:00');
+    const targetDate = new Date('2026-01-01T00:00:00');
 
     // 📝 HOW TO USE:
     // Replace the date above with your actual New Year target
