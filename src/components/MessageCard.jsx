@@ -20,7 +20,7 @@ Wishing you a Happy New Year filled with hope, joy, and new beginnings!
 May 2026 bring you closer to your dreams, fill your days with laughter, and surround you with love and success.
 
 Let’s cherish the memories of the past year and look forward to all the amazing moments ahead.
-
+   എല്ലാവർക്കും
 Happy New Year! 🎆
 
 — ArUn :)`;
