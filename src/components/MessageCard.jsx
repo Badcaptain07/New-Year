@@ -23,7 +23,7 @@ Let’s cherish the memories of the past year and look forward to all the amazin
    എല്ലാവർക്കും
 Happy New Year! 🎆
 
-— ArUn :)`;
+— KiChu :)`;
 
   // Handle page transitions
   useEffect(() => {
