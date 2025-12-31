@@ -13,7 +13,7 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[Hello Everyone],
 
 Wishing you a Happy New Year filled with hope, joy, and new beginnings!
 
