@@ -23,7 +23,7 @@ Let’s cherish the memories of the past year and look forward to all the amazin
 
 Happy New Year! 🎆
 
-— Rawdiaries.24`;
+— ArUn :)`;
 
   // Handle page transitions
   useEffect(() => {
