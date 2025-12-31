@@ -152,7 +152,7 @@ function App() {
         </button>
         <Gallery isActive={currentPage === 4} />
         <section className="final">
-          <h2 className="final-message">🎆 Cheers to 2026! — Rawdiaries.24 🎆</h2>
+          <h2 className="final-message">🎆 Cheers to 2026! — :)🎆</h2>
           <p className="final-subtitle">May this year bring you endless happiness and success! ✨</p>
         </section>
       </div>
